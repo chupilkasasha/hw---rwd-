@@ -162,14 +162,6 @@ footer{
 }
 
 }
-@media(max-width: 1000px){
-	.container-footer{
-	flex-wrap: wrap;
-}
-    .footer-block{
-	margin:4px;
-}
-}
 
 @media(max-width: 376px){
 	main{
